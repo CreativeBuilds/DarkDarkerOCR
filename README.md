@@ -1,3 +1,8 @@
+# Dark Darker OCR
+
+This is a python script designed to extract prices and items sales from screenshots of Dark and Darker trade chat
+
+
 # Install
 
 You'll need [tesseract](https://github.com/tesseract-ocr/tesseract) installed on your system.
